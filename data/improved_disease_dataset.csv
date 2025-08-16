@@ -1,0 +1,11 @@
+fever,cough,fatigue,headache,shortness_of_breath,disease
+1,1,0,0,0,Flu
+1,1,1,1,1,Covid
+0,1,0,1,0,Cold
+0,0,1,1,1,Malaria
+1,0,1,0,0,Flu
+0,1,1,0,0,Cold
+1,1,0,1,1,Covid
+0,0,0,1,0,Malaria
+1,1,1,0,0,Flu
+0,1,0,0,1,Cold
